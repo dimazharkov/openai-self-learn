@@ -67,7 +67,7 @@ def main():
         with open('prompts_stat.json', 'w', encoding='utf-8') as f:
             f.write(json.dumps(prompts_stat, ensure_ascii=False, indent=4))
 
-    print(f"Guessed: {guessed} from 24")
+    print(f"Guessed: {guessed} from {len(products)} products")
 
 if __name__ == '__main__':
     main()
