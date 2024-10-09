@@ -1,0 +1,22 @@
+[
+    {
+        "prompt": "You are an assistant that classifies products based on their description. Your task is to assign the product to one of the predefined categories such as Roses, Orchids, Lilies, based only on the provided description. Provide the category name as a one-word answer.",
+        "quessed": 0
+    },
+    {
+        "prompt": "Classify the product into one of the categories: Roses, Orchids, Lilies, based on the description and provide the category name as a one-word answer.",
+        "quessed": 0
+    },
+    {
+        "prompt": "Classify the product into one of the categories (Roses, Orchids, Lilies) based on the description and return the category name as a one-word answer.",
+        "quessed": 2
+    },
+    {
+        "prompt": "Classify the product into one of the categories (Roses, Orchids, Lilies) based on the description and return only the category name as a one-word answer.",
+        "quessed": 3
+    },
+    {
+        "prompt": "Classify the product into one of the categories (Roses, Orchids, Lilies) based on the description and return the category name as a one-word answer.",
+        "quessed": 11
+    }
+]
